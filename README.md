@@ -11,3 +11,6 @@ Criar um programa em qualquer linguagem de programação capaz de fazer a análi
 7 - Verificar se o IP é válido ou não</br>
 8 - Verificar se o IP é reservado para LAN (Rede Interna)</br>
 9 - Valor do IP em binário separado por pontos.</br>
+
+![1 ip](https://github.com/emilly-soares/Conversor-IP/assets/54116441/3ab61ff4-9fa8-4c82-a539-5ba43221b55b)
+
